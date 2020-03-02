@@ -1,2 +1,2 @@
-# online-shopping
+# Beruang Shopping
 Tutorial class project
